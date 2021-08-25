@@ -18,7 +18,7 @@ for i,point in enumerate(data):
         n=point.find("]")
         epoch=float(point[1:n])
         data_dict["epoch"].append(epoch)
-        stamp=datetime.fromtimestamp(epoch).strftime('%Y-%m-%d %H:%M:%S')
+        stamp=datetime.fromtimestamp(epoch).strftime('%Y-%m-%d %H:%M')
         data_dict["stamp"].append(stamp)
 
         if "Unreachable" in point:
@@ -29,12 +29,18 @@ for i,point in enumerate(data):
             data_dict["up"].append(1)
 
 
-plt.plot(data_dict["stamp"],data_dict["up"])
+plt.plot(data_dict["epoch"],data_dict["up"])
 
-previous=3
-for i,up in enumerate(data_dict["up"]):
+previous=data_dict["up"][0]
+for i,up in enumerate(data_dict["up"][1::]):
     if up!=previous:
-        plt.text(data_dict["epoch"][i],0.5,data_dict["stamp"])
+        if up==0:
+            y=0.75
+        if up==1:
+            y=0.25
+        plt.text(data_dict["epoch"][i]-1750,y,data_dict["stamp"][i],fontsize=6,color="red")
+        #print("added stamp")
+	
     previous=up
 
 plt.show()
