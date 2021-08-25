@@ -28,6 +28,5 @@ for i,point in enumerate(data):
             #1=up
             data_dict["up"].append(1)
 
-plt.plot(data_dict["time"],data_dict["up"])
-plt.xticks(data_dict["stamp"]
+plt.plot(data_dict["stamp"],data_dict["up"])
 plt.show()
