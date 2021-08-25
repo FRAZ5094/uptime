@@ -28,5 +28,13 @@ for i,point in enumerate(data):
             #1=up
             data_dict["up"].append(1)
 
+
 plt.plot(data_dict["stamp"],data_dict["up"])
+
+previous=3
+for i,up in enumerate(data_dict["up"]):
+    if up!=previous:
+        plt.text(data_dict["epoch"][i],0.5,data_dict["stamp"])
+    previous=up
+
 plt.show()
