@@ -1,3 +1,4 @@
+import matplotlib.pyplot as plt
 filename="Ryzen_log"
 
 def read_file(filename):
@@ -22,4 +23,6 @@ for i,point in enumerate(data):
         else:
             #1=up
             data_dict["up"].append(1)
-print(data_dict)
+
+plt.plot(data_dict["time"],data_dict["up"])
+plt.show()
