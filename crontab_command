@@ -1,0 +1,1 @@
+*/1 * * * * ping Ryzen -D -c 1 -w 5 >> ~/github/uptime/Ryzen_log
