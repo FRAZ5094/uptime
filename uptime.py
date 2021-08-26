@@ -1,3 +1,6 @@
+import tkinter
+import matplotlib
+matplotlib.use("GTK3Agg")
 from datetime import datetime
 import numpy as np
 import matplotlib.pyplot as plt
@@ -47,6 +50,7 @@ for i, up in enumerate(data_dict["up"][1::]):
             data_dict["stamp"][i],
             fontsize=6,
             color="red",
+            bbox=dict(facecolor="none",edgecolor="red",pad=10.0)
         )
         print("added stamp")
 
