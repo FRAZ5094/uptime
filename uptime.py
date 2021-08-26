@@ -37,6 +37,7 @@ for i, point in enumerate(data):
 
 
 plt.plot(data_dict["epoch"], data_dict["up"])
+plt.title(filename)
 
 previous = data_dict["up"][0]
 for i, up in enumerate(data_dict["up"][1::]):
@@ -46,7 +47,7 @@ for i, up in enumerate(data_dict["up"][1::]):
         if up == 1:
             y = 0.25
         plt.text(
-            data_dict["epoch"][i] - 1400,
+            data_dict["epoch"][i],
             y,
             data_dict["stamp"][i],
             fontsize=10,
