@@ -18,3 +18,274 @@ PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
 --- cecilrover.home ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
 rtt min/avg/max/mdev = 155.430/155.430/155.430/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629995282.073933] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=854 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 854.120/854.120/854.120/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629995341.367240] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=245 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 245.211/245.211/245.211/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629995401.576165] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=158 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 157.979/157.979/157.979/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629995462.094567] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=598 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 597.619/597.619/597.619/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629995521.695648] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=549 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 549.154/549.154/549.154/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629995581.903295] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=155 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 154.585/154.585/154.585/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629995642.115831] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=163 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 162.646/162.646/162.646/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629995701.405996] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=239 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 238.809/238.809/238.809/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629995761.617092] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=162 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 162.435/162.435/162.435/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629995821.671140] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=6.29 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 6.287/6.287/6.287/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629995881.726695] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=7.60 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 7.604/7.604/7.604/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629995941.944838] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=170 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 169.664/169.664/169.664/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629996002.158684] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=160 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 160.420/160.420/160.420/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629996061.139163] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=89.9 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 89.902/89.902/89.902/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629996121.351520] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=162 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 162.388/162.388/162.388/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629996181.406038] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=5.87 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.873/5.873/5.873/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629996241.774775] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=319 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 318.527/318.527/318.527/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629996301.986386] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=164 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 163.891/163.891/163.891/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629996362.812430] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=772 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 772.199/772.199/772.199/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629996422.102595] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=237 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 236.884/236.884/236.884/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629996481.392390] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=241 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 241.183/241.183/241.183/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629996541.444989] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=6.32 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 6.317/6.317/6.317/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629996601.815120] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=320 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 319.654/319.654/319.654/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629996661.105773] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=29.2 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 29.165/29.165/29.165/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629996721.168620] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=8.70 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 8.704/8.704/8.704/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629996781.529109] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=311 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 311.489/311.489/311.489/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629996841.739813] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=162 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 162.329/162.329/162.329/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629996901.951497] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=160 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 159.816/159.816/159.816/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629996962.165967] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=161 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 160.593/160.593/160.593/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629997021.472206] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=257 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 256.872/256.872/256.872/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629997081.665056] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=143 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 143.464/143.464/143.464/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629997141.876202] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=164 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 163.559/163.559/163.559/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629997202.117132] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=186 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 185.997/185.997/185.997/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629997261.692750] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=591 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 591.227/591.227/591.227/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629997321.903332] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=161 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 161.430/161.430/161.430/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629997382.119868] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=168 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 167.943/167.943/167.943/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629997442.024497] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=856 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 856.234/856.234/856.234/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629997501.303994] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=228 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 228.421/228.421/228.421/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629997562.438129] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=1083 ms
+[1629997562.438313] 64 bytes from cecilrover (192.168.1.202): icmp_seq=2 ttl=64 time=63.1 ms
+
+--- cecilrover.home ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 21ms
+rtt min/avg/max/mdev = 63.094/572.942/1082.791/509.849 ms, pipe 2
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629997621.726744] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=233 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 233.061/233.061/233.061/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629997681.949010] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=172 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 172.277/172.277/172.277/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629997742.162984] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=165 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 165.415/165.415/165.415/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629997801.221417] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=7.09 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 7.094/7.094/7.094/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629997862.267448] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=511 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 510.761/510.761/510.761/0.000 ms
+PING cecilrover.home (192.168.1.202) 56(84) bytes of data.
+[1629997921.557195] 64 bytes from cecilrover (192.168.1.202): icmp_seq=1 ttl=64 time=241 ms
+
+--- cecilrover.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 241.168/241.168/241.168/0.000 ms
