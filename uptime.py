@@ -1,7 +1,6 @@
 from datetime import datetime
-
 import numpy as np
-import termplot as plt
+import matplotlib.pyplot as plt
 
 filename = "Ryzen_log"
 
@@ -20,8 +19,8 @@ data_dict = {"stamp": [], "epoch": [], "up": []}
 for i, point in enumerate(data):
     if point[0] == "[":
         n = point.find("]")
-        epoch = float(point[1:n])
-        data_dict["epoch"].append(epoch)
+        epoch = int(round(float(point[1:n]),0))
+        data_dict["epoch"].append(int(epoch))
         stamp = datetime.fromtimestamp(epoch).strftime("%Y-%m-%d %H:%M")
         data_dict["stamp"].append(stamp)
 
@@ -49,7 +48,7 @@ for i, up in enumerate(data_dict["up"][1::]):
             fontsize=6,
             color="red",
         )
-        # print("added stamp")
+        print("added stamp")
 
     previous = up
 
