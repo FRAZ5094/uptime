@@ -15,5 +15,5 @@ def format_seconds(seconds, format_string):
 
 if __name__ == "__main__":
     time = sys.argv[1]
-    formatted_time = format_seconds(float(time), "{d}:{h}:{m}")
+    formatted_time = format_seconds(float(time), "{d:02d}:{h:02d}:{m:02d}")
     print(formatted_time)

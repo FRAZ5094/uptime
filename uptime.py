@@ -11,6 +11,8 @@ from format_seconds import format_seconds
 
 filename = str(sys.argv[1])
 
+time_format_string = "{d:02d}:{h:02d}:{m:02d}"
+
 
 def read_file(filename):
 
@@ -58,8 +60,10 @@ for i, up in enumerate(data_dict["up"][1::]):
         plt.text(
             (data_dict["epoch"][i] + last_change) / 2,
             0.5,
-            format_seconds(int((data_dict["epoch"][i] - last_change)), "{d}:{h}:{m}"),
-            fontsize=10,
+            format_seconds(
+                int((data_dict["epoch"][i] - last_change)), time_format_string
+            ),
+            fontsize=8,
             color="red",
             ha="center",
             va="center",
@@ -67,6 +71,15 @@ for i, up in enumerate(data_dict["up"][1::]):
 
         last_change = data_dict["epoch"][i]
     previous = up
+plt.text(
+    (data_dict["epoch"][-1] + last_change) / 2,
+    0.5,
+    format_seconds(int((data_dict["epoch"][-1] - last_change)), time_format_string),
+    fontsize=8,
+    color="red",
+    ha="center",
+    va="center",
+)
 
 
 plt.show()
