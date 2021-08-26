@@ -4,8 +4,9 @@ import tkinter
 from datetime import datetime
 import numpy as np
 import matplotlib.pyplot as plt
+import sys
 
-filename = "Ryzen_log"
+filename = str(sys.argv[1])
 
 
 def read_file(filename):
