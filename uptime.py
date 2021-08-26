@@ -1,6 +1,6 @@
 import tkinter
-import matplotlib
-matplotlib.use("GTK3Agg")
+#import matplotlib
+#matplotlib.use("GTK3Agg")
 from datetime import datetime
 import numpy as np
 import matplotlib.pyplot as plt
@@ -45,12 +45,12 @@ for i, up in enumerate(data_dict["up"][1::]):
         if up == 1:
             y = 0.25
         plt.text(
-            data_dict["epoch"][i] - 1750,
+            data_dict["epoch"][i] - 1400,
             y,
             data_dict["stamp"][i],
-            fontsize=6,
+            fontsize=10,
             color="red",
-            bbox=dict(facecolor="none",edgecolor="red",pad=10.0)
+            bbox=dict(facecolor="black",edgecolor="black",pad=2.0)
         )
         print("added stamp")
 
