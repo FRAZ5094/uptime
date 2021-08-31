@@ -60276,3 +60276,722 @@ PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
 --- Ryzen.home ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
 rtt min/avg/max/mdev = 2.082/2.082/2.082/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630436461.677064] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=110 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 110.038/110.038/110.038/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630436521.890869] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=168 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 167.506/167.506/167.506/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630436581.945999] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=2.99 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.989/2.989/2.989/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630436641.999673] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=2.04 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.038/2.038/2.038/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630436701.058006] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=2.12 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.118/2.118/2.118/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630436761.111311] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=1.93 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.934/1.934/1.934/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630436821.165482] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=2.45 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.451/2.451/2.451/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630436881.317558] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=96.7 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 96.708/96.708/96.708/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630436941.528474] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=157 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 157.379/157.379/157.379/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630437001.638953] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=54.3 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 54.323/54.323/54.323/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630437061.748568] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=125 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 124.696/124.696/124.696/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630437121.857014] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=51.9 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 51.855/51.855/51.855/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630437181.918044] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=3.00 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.996/2.996/2.996/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630437242.181848] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=212 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 211.942/211.942/211.942/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630437301.264161] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=29.9 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 29.946/29.946/29.946/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630437361.322449] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=1.60 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.602/1.602/1.602/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630437421.380247] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=1.52 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.522/1.522/1.522/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630437481.493120] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=41.1 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 41.122/41.122/41.122/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630437541.599578] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=56.1 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 56.055/56.055/56.055/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630437601.661569] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=1.44 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.435/1.435/1.435/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630437661.511987] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=212 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 211.966/211.966/211.966/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630437721.723677] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=159 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 158.928/158.928/158.928/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630437781.881668] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=106 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 105.559/105.559/105.559/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630437842.044729] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=111 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 110.552/110.552/110.552/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630437901.234521] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=138 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 138.465/138.465/138.465/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630437961.447265] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=64 time=154 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 153.988/153.988/153.988/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+
+--- Ryzen.home ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 152ms
+
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630438081.564174] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=4.37 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 4.365/4.365/4.365/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630438141.621076] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.95 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.952/1.952/1.952/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630438201.680681] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.94 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.941/1.941/1.941/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630438261.838178] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.77 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.771/1.771/1.771/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630438321.891285] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.10 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.099/1.099/1.099/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630438381.953381] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.05 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.049/1.049/1.049/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630438442.008445] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=2.60 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.595/2.595/2.595/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630438501.063767] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.87 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.869/1.869/1.869/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630438561.115471] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=2.33 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.333/2.333/2.333/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630438621.169824] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.83 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.829/1.829/1.829/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630438681.222721] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.22 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.219/1.219/1.219/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630438741.275643] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.56 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.558/1.558/1.558/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630438801.339706] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.36 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.363/1.363/1.363/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630438861.283625] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=6.69 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 6.692/6.692/6.692/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630438921.336361] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.14 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.140/1.140/1.140/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630438981.394324] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=3.23 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.230/3.230/3.230/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630439041.448778] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.31 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.306/1.306/1.306/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630439101.506069] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.67 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.669/1.669/1.669/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630439161.563069] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=3.74 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.742/3.742/3.742/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630439221.619694] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=3.20 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.203/3.203/3.203/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630439281.673965] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.20 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.199/1.199/1.199/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630439341.731826] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.82 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.815/1.815/1.815/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630439401.795745] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=3.52 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.517/3.517/3.517/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630439461.247557] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.47 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.474/1.474/1.474/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630439521.306666] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=3.44 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.441/3.441/3.441/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630439581.359516] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=2.89 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.886/2.886/2.886/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630439641.416673] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.97 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.973/1.973/1.973/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630439701.472541] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=3.31 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.313/3.313/3.313/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630439761.526967] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.18 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.179/1.179/1.179/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630439821.581869] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.83 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.832/1.832/1.832/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630439881.634245] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=0.942 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.942/0.942/0.942/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630439941.689986] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=2.68 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.679/2.679/2.679/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630440001.749822] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=2.36 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.362/2.362/2.362/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630440061.257494] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.01 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.009/1.009/1.009/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630440121.314788] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.79 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.793/1.793/1.793/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630440181.370905] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.74 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.738/1.738/1.738/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630440241.428066] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=4.24 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 4.243/4.243/4.243/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630440301.484148] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=2.41 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.414/2.414/2.414/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630440361.539704] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.84 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.842/1.842/1.842/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630440421.594619] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.09 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.092/1.092/1.092/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630440481.648711] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=2.37 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.370/2.370/2.370/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630440541.705429] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=2.00 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.997/1.997/1.997/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630440601.768708] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=3.39 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.391/3.391/3.391/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630440661.876390] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.05 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.045/1.045/1.045/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630440721.932885] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.28 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.280/1.280/1.280/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630440781.986029] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.82 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.819/1.819/1.819/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630440842.041846] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.84 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.837/1.837/1.837/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630440901.103241] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=3.49 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.485/3.485/3.485/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630440961.162478] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=2.96 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.963/2.963/2.963/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630441021.227715] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.82 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.821/1.821/1.821/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630441081.293629] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.39 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.386/1.386/1.386/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630441141.345712] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.82 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.817/1.817/1.817/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630441201.405130] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=2.21 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.206/2.206/2.206/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630441261.184081] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.62 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.623/1.623/1.623/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630441321.239958] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.76 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.764/1.764/1.764/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630441381.297676] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=2.46 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.456/2.456/2.456/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630441441.350826] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.70 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.701/1.701/1.701/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630441501.409276] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.46 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.455/1.455/1.455/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630441561.469627] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.22 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.222/1.222/1.222/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630441621.527439] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.49 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.487/1.487/1.487/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630441681.582566] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=2.84 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.842/2.842/2.842/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630441741.644817] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=3.46 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.460/3.460/3.460/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630441801.701010] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=4.33 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 4.325/4.325/4.325/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630441861.222632] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.48 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.484/1.484/1.484/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630441921.275749] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.67 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.665/1.665/1.665/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630441981.331443] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=2.94 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.939/2.939/2.939/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630442041.388222] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.50 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.496/1.496/1.496/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630442101.444260] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.16 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.163/1.163/1.163/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630442161.503624] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.72 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.719/1.719/1.719/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630442221.560359] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=2.51 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.511/2.511/2.511/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630442281.610103] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.76 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.755/1.755/1.755/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630442341.665023] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=2.25 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.253/2.253/2.253/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630442401.726760] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=2.18 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.176/2.176/2.176/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630442461.135666] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.43 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.430/1.430/1.430/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630442521.194029] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.89 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.885/1.885/1.885/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630442581.246183] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.35 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.346/1.346/1.346/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630442641.307974] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=2.05 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.045/2.045/2.045/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630442701.361768] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.85 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.852/1.852/1.852/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630442761.415915] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=2.00 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.995/1.995/1.995/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630442821.477716] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=6.34 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 6.339/6.339/6.339/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630442881.533508] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=0.954 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.954/0.954/0.954/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630442941.590059] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=2.05 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.054/2.054/2.054/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630443001.651523] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=3.38 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.382/3.382/3.382/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630443061.558465] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=3.27 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.274/3.274/3.274/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630443121.618323] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=2.01 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.009/2.009/2.009/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630443181.677150] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.05 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.050/1.050/1.050/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630443241.733477] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=3.24 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.244/3.244/3.244/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630443301.796070] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=3.90 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.897/3.897/3.897/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630443361.856176] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.98 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.975/1.975/1.975/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630443421.908653] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.22 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.224/1.224/1.224/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630443481.967671] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=3.60 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.603/3.603/3.603/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630443542.071750] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=52.4 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 52.388/52.388/52.388/0.000 ms
+PING Ryzen.home (192.168.1.92) 56(84) bytes of data.
+[1630443601.146239] 64 bytes from DESKTOP-HHBE05O (192.168.1.92): icmp_seq=1 ttl=128 time=1.95 ms
+
+--- Ryzen.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.954/1.954/1.954/0.000 ms
