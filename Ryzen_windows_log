@@ -27807,3 +27807,935 @@ PING Ryzen-windows.home (1.1.1.1) 56(84) bytes of data.
 --- Ryzen-windows.home ping statistics ---
 1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
 
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630458065.086271] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630458065.088863] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630458065.088930] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 43ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630458124.286250] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630458124.288775] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630458124.288841] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 109ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630458184.446275] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630458184.448864] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630458184.448931] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 68ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630458244.606309] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630458244.608774] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630458244.608841] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +3 errors, 100% packet loss, time 111ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630458304.766199] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630458304.768804] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +2 errors, 100% packet loss, time 109ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630458364.926269] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630458364.929014] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630458364.929079] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630458425.086240] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630458425.088850] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630458425.088916] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 72ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630458484.286397] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630458484.291003] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630458484.291069] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 109ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630458544.446262] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630458544.448710] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +2 errors, 100% packet loss, time 108ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630458604.606448] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630458604.608761] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630458604.608824] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +3 errors, 100% packet loss, time 109ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630458664.766369] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630458664.769011] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630458664.769076] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630458724.926266] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630458724.928930] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630458724.928995] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630458785.086255] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630458785.088807] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630458785.088875] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 69ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630458844.286413] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630458844.288856] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630458844.288922] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +3 errors, 100% packet loss, time 150ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630458904.446271] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630458904.448920] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630458904.448986] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 71ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630458964.606158] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630458964.608571] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +2 errors, 100% packet loss, time 112ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630459024.766203] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630459024.768659] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630459024.768725] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +3 errors, 100% packet loss, time 109ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630459084.926436] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630459084.929062] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630459084.929125] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 71ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630459145.086252] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630459145.088887] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630459145.088953] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630459204.286382] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630459204.288949] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630459204.289014] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 102ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630459264.926272] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630459264.928877] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630459264.928943] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 45ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630459325.086447] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630459325.089039] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630459325.089105] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630459384.286404] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630459384.289070] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630459384.289136] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 110ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630459444.446252] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630459444.448898] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630459444.448963] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 68ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630459504.606260] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630459504.608920] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630459504.608981] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 69ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630459564.766099] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +1 errors, 100% packet loss, time 111ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630459624.926312] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630459624.928889] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630459624.928954] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630459685.086360] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630459685.088900] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630459685.088965] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630459744.286269] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630459744.288866] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630459744.288931] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 107ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630459804.446403] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630459804.448995] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630459804.449058] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 67ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630459865.006286] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630459865.009005] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630459865.009070] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 87ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630459924.206371] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630459924.209054] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630459924.209117] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 109ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630459984.366277] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630459984.368880] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630459984.368946] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630460044.526254] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630460044.528858] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630460044.528924] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630460104.686245] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630460104.688875] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630460104.688941] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630460164.846305] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630460164.848757] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +2 errors, 100% packet loss, time 106ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630460225.006239] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630460225.008832] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630460225.008899] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630460284.206280] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630460284.208893] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630460284.208958] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 110ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630460344.366256] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630460344.368925] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630460344.368990] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 68ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630460404.526393] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630460404.529742] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630460404.529811] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +3 errors, 100% packet loss, time 108ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630460464.366291] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630460464.368963] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630460464.369030] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 88ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630460524.526420] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630460524.529034] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630460524.529099] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 69ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630460584.686339] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630460584.688858] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +2 errors, 100% packet loss, time 111ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630460644.846230] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630460644.848748] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +2 errors, 100% packet loss, time 109ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630460705.006190] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +1 errors, 100% packet loss, time 111ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630460764.206263] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630460764.208881] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630460764.208947] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 110ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630460824.366259] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630460824.368884] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630460824.368950] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630460884.526269] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630460884.528887] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630460884.528951] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 69ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630460944.686353] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630460944.689011] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630460944.689076] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 69ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630461004.846338] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630461004.848706] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +2 errors, 100% packet loss, time 104ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630461064.206261] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630461064.208794] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630461064.208860] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 46ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630461124.366380] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630461124.368998] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630461124.369063] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630461184.526424] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630461184.529065] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630461184.529130] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 68ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630461244.686274] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630461244.688842] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630461244.688908] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 68ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630461304.846387] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630461304.849025] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630461304.849091] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630461365.006257] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630461365.008899] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630461365.008966] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630461424.206399] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630461424.209040] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630461424.209103] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 110ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630461484.366250] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630461484.368893] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630461484.368959] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 73ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630461544.526284] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630461544.528790] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630461544.528856] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630461604.686327] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630461604.688408] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630461604.688456] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +3 errors, 100% packet loss, time 110ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630461664.686428] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630461664.688997] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630461664.689062] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 109ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630461724.846255] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630461724.853863] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630461724.853929] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630461785.006264] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630461785.008876] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630461785.008942] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 65ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630461844.206248] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630461844.208834] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630461844.208900] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 110ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630461904.366250] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630461904.368743] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +2 errors, 100% packet loss, time 110ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630461964.526271] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630461964.528911] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630461964.528976] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630462024.686477] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630462024.688996] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630462024.689060] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +3 errors, 100% packet loss, time 108ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630462084.846279] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630462084.848895] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630462084.848961] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630462145.006266] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630462145.008982] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630462145.009049] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 68ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630462204.206295] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630462204.208878] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630462204.208942] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 108ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630462264.926406] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630462264.929069] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630462264.929132] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 107ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630462325.086249] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630462325.088911] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630462325.088973] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 71ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630462384.286309] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630462384.288869] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630462384.288934] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 110ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630462444.446337] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630462444.449023] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630462444.449089] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +3 errors, 100% packet loss, time 111ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630462504.606249] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630462504.608916] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630462504.608982] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 71ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630462564.766192] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630462564.768634] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +2 errors, 100% packet loss, time 106ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630462624.926242] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630462624.928858] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630462624.928924] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 66ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630462685.086248] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630462685.088817] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630462685.088884] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 71ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630462744.286291] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630462744.288895] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630462744.288959] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 109ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630462804.456362] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630462804.458457] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630462804.458521] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +3 errors, 100% packet loss, time 118ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630462864.926297] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630462864.928963] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630462864.929088] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 115ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630462925.086290] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630462925.088880] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +2 errors, 100% packet loss, time 111ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630462984.286180] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630462984.288732] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +2 errors, 100% packet loss, time 150ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630463044.446155] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +1 errors, 100% packet loss, time 108ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630463104.606250] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630463104.608945] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630463104.609012] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630463164.766253] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630463164.768860] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630463164.768925] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630463224.926386] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630463224.928974] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630463224.929039] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630463285.086256] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630463285.088846] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630463285.088913] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630463344.286263] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630463344.288885] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630463344.288950] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 110ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630463404.446480] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630463404.450066] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630463404.450135] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +3 errors, 100% packet loss, time 98ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630463464.846261] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630463464.849044] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630463464.849106] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 64ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630463525.006412] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630463525.009048] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630463525.009113] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 67ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630463584.206265] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630463584.208885] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630463584.208951] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 110ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630463644.366429] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630463644.369040] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630463644.369107] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 67ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630463704.526370] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630463704.528561] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630463704.528624] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630463764.686262] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630463764.688886] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630463764.688952] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630463824.846275] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630463824.848883] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630463824.848949] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630463885.006243] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630463885.008912] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630463885.008980] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630463944.206253] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630463944.208928] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630463944.208992] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 109ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630464004.366227] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630464004.368582] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +2 errors, 100% packet loss, time 102ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630464064.366289] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630464064.368847] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630464064.368913] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 60ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630464124.526275] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630464124.529098] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630464124.529164] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630464184.686277] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630464184.688866] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630464184.688932] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 69ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630464244.846341] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630464244.848960] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630464244.849024] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 73ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630464305.006153] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630464305.008624] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +2 errors, 100% packet loss, time 109ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630464364.206232] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630464364.208685] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +2 errors, 100% packet loss, time 151ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630464424.366268] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630464424.369097] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630464424.369163] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 68ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630464484.526390] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630464484.529060] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630464484.529124] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 69ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630464544.686252] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630464544.688858] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630464544.688924] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630464604.846382] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630464604.848926] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630464604.848991] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +3 errors, 100% packet loss, time 109ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630464664.686389] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630464664.688782] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630464664.688851] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +3 errors, 100% packet loss, time 124ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630464724.846262] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630464724.848897] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630464724.848962] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630464785.006208] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630464785.008833] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630464785.008901] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630464844.206265] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630464844.208822] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630464844.208888] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 111ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630464904.366421] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630464904.369035] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630464904.369098] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630464964.526284] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630464964.528971] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630464964.529036] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630465024.686439] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630465024.689088] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630465024.689153] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 70ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630465084.846409] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630465084.849035] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630465084.849099] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 69ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630465145.006466] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+[1630465145.009232] From serverpi (192.168.1.71) icmp_seq=2 Destination Host Unreachable
+[1630465145.009296] From serverpi (192.168.1.71) icmp_seq=3 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 69ms
+pipe 3
