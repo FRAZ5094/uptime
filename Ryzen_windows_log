@@ -74841,3 +74841,712 @@ PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
 --- Ryzen-windows.home ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
 rtt min/avg/max/mdev = 9.806/9.806/9.806/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630926061.727101] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=57.8 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 57.834/57.834/57.834/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630926121.939729] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=166 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 165.762/165.762/165.762/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630926181.991956] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=3.97 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.967/3.967/3.967/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630926242.055370] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=13.6 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 13.566/13.566/13.566/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630926301.139762] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=34.2 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 34.240/34.240/34.240/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630926361.248838] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=53.4 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 53.437/53.437/53.437/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630926421.358270] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=51.2 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 51.224/51.224/51.224/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630926481.569990] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=156 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 156.149/156.149/156.149/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630926541.783069] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=161 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 161.181/161.181/161.181/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630926601.838398] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.15 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.154/1.154/1.154/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630926661.284414] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=92.1 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 92.135/92.135/92.135/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630926721.498504] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=161 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 160.720/160.720/160.720/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630926781.605688] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=53.2 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 53.168/53.168/53.168/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630926841.817612] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=162 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 161.870/161.870/161.870/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630926901.872540] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.23 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.227/1.227/1.227/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630926962.010825] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=82.8 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 82.816/82.816/82.816/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630927021.122293] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=57.6 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 57.578/57.578/57.578/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630927081.178676] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.92 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.918/1.918/1.918/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630927141.394392] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=153 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 152.828/152.828/152.828/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630927201.552594] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=100 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 100.264/100.264/100.264/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630927262.071731] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=145 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 144.830/144.830/144.830/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630927321.260075] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=135 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 135.045/135.045/135.045/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630927381.471538] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=157 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 156.671/156.671/156.671/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630927441.519937] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.30 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.297/1.297/1.297/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630927501.690593] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=110 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 110.173/110.173/110.173/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630927561.800884] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=60.6 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 60.605/60.605/60.605/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630927621.909142] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=58.6 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 58.648/58.648/58.648/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630927682.121210] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=162 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 161.635/161.635/161.635/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630927741.311148] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=136 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 136.123/136.123/136.123/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630927801.436327] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=69.8 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 69.838/69.838/69.838/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630927862.039709] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=24.1 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.148/24.148/24.148/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630927921.092884] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.43 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.427/1.427/1.427/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630927981.147143] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=2.71 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.709/2.709/2.709/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630928041.242211] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=42.9 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 42.886/42.886/42.886/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630928101.292272] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.36 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.357/1.357/1.357/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630928161.358178] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=17.0 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 17.025/17.025/17.025/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630928221.408883] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.96 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.958/1.958/1.958/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630928281.474583] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=13.5 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 13.465/13.465/13.465/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630928341.585284] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=59.4 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 59.438/59.438/59.438/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630928401.694299] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=51.9 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 51.862/51.862/51.862/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630928461.485011] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.89 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.891/1.891/1.891/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630928521.537894] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.40 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.402/1.402/1.402/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630928581.612332] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=18.7 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.677/18.677/18.677/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630928641.666433] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=2.15 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.146/2.146/2.146/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630928701.732965] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.45 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.452/1.452/1.452/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630928761.786313] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=2.06 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.055/2.055/2.055/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630928821.842270] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.83 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.834/1.834/1.834/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630928881.955239] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=59.8 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 59.800/59.800/59.800/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630928942.011321] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.34 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.336/1.336/1.336/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630929001.252794] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=190 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 189.841/189.841/189.841/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630929061.873789] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=150 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 150.463/150.463/150.463/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630929122.086048] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=163 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 162.739/162.739/162.739/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630929181.273404] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=135 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 135.089/135.089/135.089/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630929241.486325] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=163 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 163.147/163.147/163.147/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630929301.581179] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=39.4 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 39.444/39.444/39.444/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630929361.806853] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=172 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 171.951/171.951/171.951/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630929421.859913] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.75 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.745/1.745/1.745/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630929481.923608] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=8.69 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 8.692/8.692/8.692/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630929542.136772] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=161 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 160.999/160.999/160.999/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630929601.324429] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=133 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 132.835/132.835/132.835/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630929661.739740] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=15.9 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 15.871/15.871/15.871/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630929721.951839] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=163 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 162.882/162.882/162.882/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630929782.002021] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.37 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.368/1.368/1.368/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630929841.146545] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=94.7 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 94.665/94.665/94.665/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630929901.201022] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.47 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.466/1.466/1.466/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630929961.365623] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=108 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 108.249/108.249/108.249/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630930021.475155] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=57.5 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 57.474/57.474/57.474/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630930081.531403] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.16 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.162/1.162/1.162/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630930141.797994] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=212 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 212.326/212.326/212.326/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630930202.008725] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=153 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 153.435/153.435/153.435/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630930261.835090] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.68 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.680/1.680/1.680/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630930321.888730] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.52 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.517/1.517/1.517/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630930381.945007] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.96 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.955/1.955/1.955/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630930442.036957] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=32.8 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 32.766/32.766/32.766/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630930501.092441] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=2.61 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.606/2.606/2.606/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630930561.222663] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=78.8 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 78.770/78.770/78.770/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630930621.446259] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=159 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 159.168/159.168/159.168/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630930681.509676] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.65 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.648/1.648/1.648/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630930741.768613] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=205 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 204.987/204.987/204.987/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630930801.874803] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=52.1 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 52.080/52.080/52.080/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630930861.130167] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=0.985 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.985/0.985/0.985/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630930921.192109] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.15 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.147/1.147/1.147/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630930981.248722] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=2.98 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.981/2.981/2.981/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630931041.493523] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=188 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 187.855/187.855/187.855/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630931101.548978] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=7.82 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 7.818/7.818/7.818/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630931161.609700] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=14.1 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 14.147/14.147/14.147/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630931221.719678] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=57.0 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 56.988/56.988/56.988/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630931281.830620] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=60.4 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 60.436/60.436/60.436/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630931341.882012] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.87 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.872/1.872/1.872/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630931402.048857] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=112 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 111.709/111.709/111.709/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630931461.337230] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=39.7 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 39.683/39.683/39.683/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630931521.390229] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=1.31 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.312/1.312/1.312/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630931581.557014] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=110 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 110.471/110.471/110.471/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630931641.666733] 64 bytes from Ryzen-windows (192.168.1.92): icmp_seq=1 ttl=64 time=57.3 ms
+
+--- Ryzen-windows.home ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 57.315/57.315/57.315/0.000 ms
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+
+--- Ryzen-windows.home ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 171ms
+
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630931764.926343] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +1 errors, 100% packet loss, time 153ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630931825.086389] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +1 errors, 100% packet loss, time 106ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630931884.286330] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +1 errors, 100% packet loss, time 146ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630931944.446230] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +1 errors, 100% packet loss, time 71ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630932004.526357] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +1 errors, 100% packet loss, time 132ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630932065.166270] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +1 errors, 100% packet loss, time 147ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630932124.366139] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +1 errors, 100% packet loss, time 109ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630932184.366262] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +1 errors, 100% packet loss, time 96ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630932244.526178] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +1 errors, 100% packet loss, time 65ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630932304.686236] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +1 errors, 100% packet loss, time 66ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+
+--- Ryzen-windows.home ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 152ms
+
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+
+--- Ryzen-windows.home ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 175ms
+
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630932485.006221] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +1 errors, 100% packet loss, time 163ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+
+--- Ryzen-windows.home ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 147ms
+
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630932605.086372] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +1 errors, 100% packet loss, time 126ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+
+--- Ryzen-windows.home ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 118ms
+
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630932724.366313] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +1 errors, 100% packet loss, time 102ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630932784.526273] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +1 errors, 100% packet loss, time 105ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630932844.606359] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +1 errors, 100% packet loss, time 130ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630932904.766193] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +1 errors, 100% packet loss, time 105ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630932964.846422] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +1 errors, 100% packet loss, time 131ms
+pipe 4
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630933025.006216] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +1 errors, 100% packet loss, time 66ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630933084.206170] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+3 packets transmitted, 0 received, +1 errors, 100% packet loss, time 106ms
+pipe 3
+PING Ryzen-windows.home (192.168.1.92) 56(84) bytes of data.
+[1630933144.206461] From serverpi (192.168.1.71) icmp_seq=1 Destination Host Unreachable
+
+--- Ryzen-windows.home ping statistics ---
+4 packets transmitted, 0 received, +1 errors, 100% packet loss, time 91ms
+pipe 4
